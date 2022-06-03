@@ -59,3 +59,5 @@ C:\Users\madej\Desktop\GitHub\Restaurant\Restaurant-API\Restaurant-API\obj\Debug
 C:\Users\madej\Desktop\GitHub\Restaurant\Restaurant-API\Restaurant-API\obj\Debug\net6.0\Restaurant-API.pdb
 C:\Users\madej\Desktop\GitHub\Restaurant\Restaurant-API\Restaurant-API\obj\Debug\net6.0\Restaurant-API.genruntimeconfig.cache
 C:\Users\madej\Desktop\GitHub\Restaurant\Restaurant-API\Restaurant-API\obj\Debug\net6.0\ref\Restaurant-API.dll
+C:\Users\madej\Desktop\GitHub\Restaurant\Restaurant-API\Restaurant-API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\madej\Desktop\GitHub\Restaurant\Restaurant-API\Restaurant-API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
